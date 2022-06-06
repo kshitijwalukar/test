@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-class Addvalue{
+class Addvalues{
 
 	public void sortvalues(ArrayList<String> values) {
 		
