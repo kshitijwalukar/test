@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 class Addvalue{
 
-	public void sortvalues(ArrayList<String> values) {
+	public void sortvalues(AdrrayList<String> values) {
 		
 		
 			System.out.println(values.contains("5"));
