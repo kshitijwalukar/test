@@ -1,4 +1,4 @@
-package exam;
+package src.exam;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -21,7 +21,7 @@ class Pass extends Addvalue {
 		b.sortvalues(values);
 	}
 }
-class Main {
+class Maine {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
